@@ -1,9 +1,8 @@
 #pragma once
 
+namespace stm {
 
-namespace stm
-{
-    class turing_machine{
-        
-    };    
-} // namespace stm
+class turing_machine {
+};
+
+}  // namespace stm
