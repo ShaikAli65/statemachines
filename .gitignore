@@ -5,3 +5,4 @@
 clion-*
 build
 cmake-build-debug
+out/*
