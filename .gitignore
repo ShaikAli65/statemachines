@@ -3,3 +3,5 @@
 *.iml
 *.log
 clion-*
+build
+cmake-build-debug
